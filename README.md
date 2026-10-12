@@ -8,8 +8,8 @@ whatever your computer is playing.
 
 | Platform | Get it |
 |----------|--------|
-| **Mac** (macOS 14+) | [Download the latest DMG](https://github.com/pangu25/uberlang-downloads/releases/latest/download/Uberlang.dmg) · also on the Mac App Store |
-| **Windows** | Coming soon |
+| **Mac** (macOS 14+) | [Download the latest DMG](https://uberlang.com/download/mac) · also on the Mac App Store |
+| **Windows** (10 & 11, 64-bit) | [Download the latest app (.exe)](https://uberlang.com/download/windows) |
 | **Android** | Coming soon (Google Play) |
 | **Browser** | [Chrome extension](https://chromewebstore.google.com/detail/uberlang/omaenkbfkaocgjhkoobmehbifehiagnc) |
 
